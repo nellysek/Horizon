@@ -12,7 +12,7 @@
   "Lines_Inseted": 22,
   "Lines_Deleted": 0,
   "CommitParent": "fc1244708b24a33e753533a096dfbf23232f76fd",
-  "Classification": "Bug",
+  "Classification": "Not_Bug",
   "KeywordsTitle": "display project name",
   "Description": "only displays, now display",
   "KeywordsCommit": "display project name ",
